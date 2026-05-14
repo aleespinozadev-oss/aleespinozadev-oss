@@ -12,13 +12,11 @@
 
 <img src="https://img.shields.io/badge/LOCATION-MÉXICO-111111?style=for-the-badge&logo=googleearth&logoColor=A855F7"/>
 
-<img src="https://img.shields.io/badge/EMAIL-devsystems.mx@outlook.com-111111?style=for-the-badge&logo=protonmail&logoColor=A855F7"/>
-
 </div>
 
 ---
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crystal%20Ball.png" width="28"/> SYSTEM PROFILE
+# 🧠 SYSTEM PROFILE
 
 <div align="center">
 
@@ -47,7 +45,7 @@ status: ONLINE
 
 ---
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Ringed%20Planet.png" width="28"/> TECH ECOSYSTEM
+# ⚡ TECH ECOSYSTEM
 
 <div align="center">
 
@@ -65,7 +63,7 @@ status: ONLINE
 
 ---
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Video%20Game.png" width="28"/> FEATURED PROJECTS
+# 🚀 FEATURED PROJECTS
 
 <div align="center">
 
@@ -154,13 +152,13 @@ Automated platform for digital report generation and enterprise workflow optimiz
 
 ---
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Chart%20Increasing.png" width="28"/> GITHUB ANALYTICS
+# 📊 GITHUB ANALYTICS
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aleespinozadev-oss&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=A855F7&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=aleespinozadev-oss&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=A855F7&text_color=ffffff"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleespinozadev-oss&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aleespinozadev-oss&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=ffffff"/>
 
 </div>
 
@@ -174,7 +172,7 @@ Automated platform for digital report generation and enterprise workflow optimiz
 
 ---
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="28"/> ACTIVITY MATRIX
+# 🧬 ACTIVITY MATRIX
 
 <div align="center">
 
@@ -184,7 +182,7 @@ Automated platform for digital report generation and enterprise workflow optimiz
 
 ---
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="28"/> CURRENT OBJECTIVES
+# 🎯 CURRENT OBJECTIVES
 
 ```typescript
 const alejandro = {
@@ -205,7 +203,7 @@ const alejandro = {
 
 ---
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Satellite.png" width="28"/> CONNECT
+# 🌐 CONNECT
 
 <div align="center">
 
