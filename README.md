@@ -149,9 +149,97 @@ Automated platform for digital report generation and enterprise workflow optimiz
 </table>
 
 </div>
+---
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="50%">
+
+## 🧺 LAVADOQR
+
+Production SaaS for laundromat and dry-cleaner management. Features QR-based cycle tracking, multi-location support, RBAC, loyalty system, and real-time dashboards.
+
+#### STACK
+`React` `Node.js` `Supabase` `SaaS`
+
+#### LIVE
+https://www.lavadoqr.com/
+
+</td>
+
+<td width="50%">
+
+<img width="100%" src="./assets/lavadoqr-card.png"/>
+
+</td>
+
+</tr>
+</table>
+
+</div>
 
 ---
 
+<div align="center">
+
+<table>
+<tr>
+
+<td width="50%">
+
+<img width="100%" src="./assets/ojohalcon-card.png"/>
+
+</td>
+
+<td width="50%">
+
+## 👁️ OJO DE HALCÓN v2.0
+
+Intelligent surveillance platform leveraging YOLOv8, MediaPipe, and Gemini AI for real-time threat detection, behavioral analysis, and automated WhatsApp alerts.
+
+#### STACK
+`Python` `YOLOv8` `Gemini AI` `Computer Vision`
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="50%">
+
+## 💼 PROESSA EXPENSE MANAGER
+
+Automated expense & reimbursement platform with CFDI/XML validation, AI OCR, Google Sheets integration, and WhatsApp notifications.
+
+#### STACK
+`Node.js` `Apps Script` `Mistral AI` `Automation`
+
+</td>
+
+<td width="50%">
+
+<img width="100%" src="./assets/proessa-card.png"/>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
 # 📊 GITHUB ANALYTICS
 
 <div align="center">
