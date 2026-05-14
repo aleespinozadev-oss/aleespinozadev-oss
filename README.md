@@ -228,6 +228,6 @@ const alejandro = {
 <br/>
 <br/>
 
-<img width="100%" src="./assets/footer.png"/>
+<img width="100%" src="./assets/tech-line.png"/>
 
 </div>
