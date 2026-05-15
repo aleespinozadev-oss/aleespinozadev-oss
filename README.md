@@ -17,7 +17,7 @@
 ---
 
 # 🧠 SYSTEM PROFILE
-<img width="100%" src="./assets/ia-panel.png"/>
+<img width="100%" src="./assets/ai-panel.png"/>
 
 
 # ⚡ TECH ECOSYSTEM
