@@ -17,33 +17,8 @@
 ---
 
 # 🧠 SYSTEM PROFILE
+<img width="100%" src="./assets/ia-panel.png"/>
 
-<div align="center">
-
-```yaml
-name: Alejandro Espinoza
-
-role: Software Engineer
-
-specialized_in:
-  - Artificial Intelligence
-  - Automation Systems
-  - SaaS Platforms
-  - Enterprise Software
-  - Backend Architecture
-
-currently_building:
-  - Intelligent Automation Systems
-  - Regulatory Platforms
-  - AI Solutions
-  - Electoral Analytics Systems
-
-status: ONLINE
-```
-
-</div>
-
----
 
 # ⚡ TECH ECOSYSTEM
 
